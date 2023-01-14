@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: Metadata file 'E:\Unity Stuff\Scoot 3 Unmastered\Temp\bin\Debug\SimpleInput.Editor.dll' could not be found
+dotnet_diagnostic.CS0006.severity = none
